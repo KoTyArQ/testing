@@ -1,0 +1,65 @@
+1.Login
+1)Попасть на сайт https://www.saucedemo.com/
+2)Ввести в поле username standard_user
+3)Ввести  в поле password secret_sauce
+4)Нажать на кнопку login и попасть на сайт
+
+2.filter_test
+1)Попасть на сайт https://www.saucedemo.com/
+2)Ввести в поле username standard_user
+3)Ввести  в поле password secret_sauce
+4)Нажать на кнопку login и попасть на сайт
+4)Нажать на фильтр
+5)Выбрать Name(Z to A)
+6)Нажать на фильтр
+7)Выбрать Price(low to high)
+8)Нажать на фильтр
+9)Выбрать Price(high to low)
+10)Нажать на фильтр
+11)Выбрать Name(A to Z)
+
+3.Checkout
+1)Попасть на сайт https://www.saucedemo.com/
+2)Ввести в поле username standard_user
+3)Ввести  в поле password secret_sauce
+4)Нажать на кнопку login и попасть на сайт
+4)Нажать на кнопку "Add to cart" на карточке Sauce labs backpack
+5)Нажать на иконку Корзины
+6)Нажать на кнопку "Checkout"
+7)Нажать на кнопку "Checkout"
+8)Ввести значение в поле First name
+9)Ввести значение в поле Last name
+10)Ввести значение в поле Zip/Postal Code
+11)Нажать на кнопку "Continue"
+12)Нажать на кнопку "Checkout"
+13)Нажать на кнопку "Finish"
+14)Нажать на кнопку "Back home"
+
+4.delete_items
+1)Попасть на сайт https://www.saucedemo.com/
+2)Ввести в поле username standard_user
+3)Ввести  в поле password secret_sauce
+4)Нажать на кнопку login и попасть на сайт
+4)Нажать на кнопку "Add to cart" на карточке Sauce labs backpack
+5)Нажать на кнопку "Add to cart" на карточке Sauce Labs Bike Light
+6)Нажать на кнопку "Add to cart" на карточке Sauce Labs Fleece Jacket
+7)Нажать на иконку Корзины
+8)Нажать на кнопку "Remove" на карточке Sauce labs backpack
+9)Нажать на кнопку "Remove" на карточке Sauce Labs Bike Light
+10)Нажать на кнопку "Remove" на карточке Sauce Labs Fleece Jacket
+11)Нажать на кнопку "Continue Shopping"
+
+5.access_without_login
+1)Попасть на сайт https://www.saucedemo.com/
+2)Попасть на страницу https://www.saucedemo.com/inventory.html
+3)Получить уведомление об отсутсвие возможности попасть на страницу
+
+6.sidebar_test
+1)Попасть на сайт https://www.saucedemo.com/
+2)Ввести в поле username standard_user
+3)Ввести  в поле password secret_sauce
+4)Нажать на кнопку login и попасть на сайт
+5)Нажать на бургер меню
+6)Проверить выходит ли боковое меню
+7)Нажать на крестик в меню
+8)Проверить закрылось ли меню
